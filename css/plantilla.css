@@ -1,0 +1,43 @@
+header {
+    text-align: center;
+    border: solid 1px;
+}
+
+.menulinks {
+    background: red;
+}
+
+footer {
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+}
+
+.left-options {
+    background-color: red;
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+
+.right-options {
+    background-color: purple;
+    width: 20%;
+    height: 100%;
+    float: right;
+}
+
+.main-content {
+    display: inline;
+}
+
+p:first-letter{
+  font-size:80px;
+  color:red;
+  font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif
+  
+}
